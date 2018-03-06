@@ -1,0 +1,19 @@
+D:\Visual Studio\Visual Studio C# Projects\Graph_Visual_Laba_3\Graph_Visual_Laba_3\bin\Debug\Graph_Visual_Laba_3.exe.config
+D:\Visual Studio\Visual Studio C# Projects\Graph_Visual_Laba_3\Graph_Visual_Laba_3\bin\Debug\Graph_Visual_Laba_3.exe
+D:\Visual Studio\Visual Studio C# Projects\Graph_Visual_Laba_3\Graph_Visual_Laba_3\bin\Debug\Graph_Visual_Laba_3.pdb
+D:\Visual Studio\Visual Studio C# Projects\Graph_Visual_Laba_3\Graph_Visual_Laba_3\obj\Debug\Graph_Visual_Laba_3.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Visual Studio C# Projects\Graph_Visual_Laba_3\Graph_Visual_Laba_3\obj\Debug\Graph_Visual_Laba_3.Form1.resources
+D:\Visual Studio\Visual Studio C# Projects\Graph_Visual_Laba_3\Graph_Visual_Laba_3\obj\Debug\Graph_Visual_Laba_3.Properties.Resources.resources
+D:\Visual Studio\Visual Studio C# Projects\Graph_Visual_Laba_3\Graph_Visual_Laba_3\obj\Debug\Graph_Visual_Laba_3.csproj.GenerateResource.Cache
+D:\Visual Studio\Visual Studio C# Projects\Graph_Visual_Laba_3\Graph_Visual_Laba_3\obj\Debug\Graph_Visual_Laba_3.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Visual Studio C# Projects\Graph_Visual_Laba_3\Graph_Visual_Laba_3\obj\Debug\Graph_Visual_Laba_3.exe
+D:\Visual Studio\Visual Studio C# Projects\Graph_Visual_Laba_3\Graph_Visual_Laba_3\obj\Debug\Graph_Visual_Laba_3.pdb
+C:\Users\WhiteSideOfDarkness\Desktop\Graph_Visual_Laba_3\Graph_Visual_Laba_3\Graph_Visual_Laba_3\bin\Debug\Graph_Visual_Laba_3.exe.config
+C:\Users\WhiteSideOfDarkness\Desktop\Graph_Visual_Laba_3\Graph_Visual_Laba_3\Graph_Visual_Laba_3\bin\Debug\Graph_Visual_Laba_3.exe
+C:\Users\WhiteSideOfDarkness\Desktop\Graph_Visual_Laba_3\Graph_Visual_Laba_3\Graph_Visual_Laba_3\bin\Debug\Graph_Visual_Laba_3.pdb
+C:\Users\WhiteSideOfDarkness\Desktop\Graph_Visual_Laba_3\Graph_Visual_Laba_3\Graph_Visual_Laba_3\obj\Debug\Graph_Visual_Laba_3.csprojResolveAssemblyReference.cache
+C:\Users\WhiteSideOfDarkness\Desktop\Graph_Visual_Laba_3\Graph_Visual_Laba_3\Graph_Visual_Laba_3\obj\Debug\Graph_Visual_Laba_3.Form1.resources
+C:\Users\WhiteSideOfDarkness\Desktop\Graph_Visual_Laba_3\Graph_Visual_Laba_3\Graph_Visual_Laba_3\obj\Debug\Graph_Visual_Laba_3.Properties.Resources.resources
+C:\Users\WhiteSideOfDarkness\Desktop\Graph_Visual_Laba_3\Graph_Visual_Laba_3\Graph_Visual_Laba_3\obj\Debug\Graph_Visual_Laba_3.csproj.GenerateResource.Cache
+C:\Users\WhiteSideOfDarkness\Desktop\Graph_Visual_Laba_3\Graph_Visual_Laba_3\Graph_Visual_Laba_3\obj\Debug\Graph_Visual_Laba_3.exe
+C:\Users\WhiteSideOfDarkness\Desktop\Graph_Visual_Laba_3\Graph_Visual_Laba_3\Graph_Visual_Laba_3\obj\Debug\Graph_Visual_Laba_3.pdb
