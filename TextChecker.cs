@@ -11,21 +11,18 @@ namespace Graph_Visual_Laba_3
     {
         public static bool CheckString(string str)
         {
-            bool flag = true;
-
             if (String.IsNullOrWhiteSpace(str))
             {
-                flag = false;
-                return flag;
+                return false;
             }
             int len = str.Length;
             for (int i = 0; i < len; ++i)
             {
                 char c = str[i];
                 if ((c < '0' || c > '9') && c != ',')
-                    flag = false;
+                    return false;
             }
-            return flag;
+            return true;
         }
 
         public static List<Tuple<string, string>> CheckFile(string path)
